@@ -1,4 +1,4 @@
-Español | [[README-en.md | English]] 
+Español | [[README-en|English]] 
 # Configuración de Qtile para Kinder.Dots
 
 Este repositorio contiene la configuración de Qtile utilizada en el proyecto Kinder.Dots. Qtile es un gestor de ventanas en mosaico altamente personalizable, escrito y configurado en Python.
