@@ -1,4 +1,3 @@
-[[README.md|Español]] | English 
 ## Qtile Configuration for Kinder.Dots
 
 This repository contains the Qtile configuration used in the Kinder.Dots project. Qtile is a highly customizable tiling window manager written and configured in Python.
